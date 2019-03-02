@@ -3,7 +3,7 @@
 
 [Ir a a sitio web](hhttps://yotman-reyes.netlify.com/)
 
-![Yotman Reyes - Software Engineer]  (https://yotman-reyes.netlify.com/images/me.jpg)
+![Yotman Reyes - Software Engineer](https://yotman-reyes.netlify.com/images/me.jpg)
 ## About me:
 
 #### Skills
