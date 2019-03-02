@@ -27,7 +27,7 @@ module.exports = {
       	new HtmlWebpackPlugin({
 	        title: 'Yotman Reyes || Javascript FullStack Developer',
 	        hash: true,
-	        filename: './dist/index.html',
+	        filename: './index.html',
 	        template:'./src/templates/index.html'
 
       })
