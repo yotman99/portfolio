@@ -1,5 +1,4 @@
 import $ from 'jQuery';
-import _ from 'lodash';
 import './css/bootstrap.css';
 import './css/style.css';
 import profile from './images/me.jpg';

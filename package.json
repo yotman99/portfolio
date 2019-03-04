@@ -8,8 +8,8 @@
     "start": "webpack-dev-server --open"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Yotman Reyes",
+  "license": "MIT",
   "devDependencies": {
     "clean-webpack-plugin": "^1.0.1",
     "css-loader": "^2.1.0",
